@@ -1,4 +1,7 @@
 
+https://dev.azure.com/DE20079839/DemoProject/_apis/build/status/Debobrata82.pipelines-java?branchName=master
+https://dev.azure.com/DE20079839/DemoProject/_build/latest?definitionId=2&branchName=master
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
